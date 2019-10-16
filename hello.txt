@@ -1,2 +1,6 @@
 hello cp4
+<<<<<<< HEAD
 ik ben Ellen
+=======
+ik ben Clara
+>>>>>>> 49a05ad3085ec939c6cd7bd2f87f009f97aa78e6
